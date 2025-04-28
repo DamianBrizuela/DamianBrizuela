@@ -1,4 +1,4 @@
-## My Name is Nelson Damian Brizuela
+## Hi, my name is Nelson Damian Brizuela
 ### 👋🏼 About me
 I’m a software developer and electronics technician. I mainly like coding in Python, I started learning with Pascal but during my Bachelor's degree in System Analysis, I worked entirely with C++. I enjoy roller skating and spending quality time outdoors with my friend, girlfriend and two daughters. I also like reading and learning about finance, investment, and market operations.
 ### Professional me
