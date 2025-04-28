@@ -52,5 +52,5 @@ Technical soport providing support and manteinance on equipment (mechanical, ele
 
 
 ### ✉️ Contact me
-<a href="nelson83mdq@gmail.com">![GMAIL](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)</a>
+<a href="mailto:nelson83mdq@gmail.com">![GMAIL](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/brizuelanelsondamian/">![LINKEDIN](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)</a>
