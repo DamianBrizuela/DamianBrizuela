@@ -1,7 +1,7 @@
 ## Hi, my name is Nelson Damian Brizuela
 ### 👋🏼 About me
 I’m a software developer and electronics technician. I mainly like coding in Python, I started learning with Pascal but during my Bachelor's degree in System Analysis, I worked entirely with C++. I enjoy roller skating and spending quality time outdoors with my friend, girlfriend and two daughters. I also like reading and learning about finance, investment, and market operations.
-### Professional me
+
 Currently, I am working with FastAPI, Laravel, Angular, and JavaScript, with occasional use of ExtJS. I have over two years of experience. Additionally, I developed a local stock control application entirely in C++ a few years ago.
 
 As a Full Stack Developer, I build software solutions that integrate third-party APIs like OpenAI and Retell. I code both the user interface and the endpoints using Laravel, FastAPI, JavaScript, Angular, and ExtJS, enabling AI-driven services to function properly while storing relevant data.
