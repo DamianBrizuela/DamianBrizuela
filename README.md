@@ -52,9 +52,9 @@ Technical support providing support and maintenance on equipment in a manufactur
   -  Maintenance of production equipment, focusing on automation, electrical systems, and PLC programming.
   -  Refurbishment and upgrading of electrical panels and PLCs for equipment control and operation.
   -  Implementation of operational improvements on third-party equipment, such as:
-    * Jam detection and automatic shutdown systems for cans.
-    * Enhanced functionality for post-sterilization basket rotators.
-    * Operational improvements for can washers, etc.
+    - Jam detection and automatic shutdown systems for cans.
+    - Enhanced functionality for post-sterilization basket rotators.
+    - Operational improvements for can washers, etc.
 </i>
  
 ### 📚 Education
