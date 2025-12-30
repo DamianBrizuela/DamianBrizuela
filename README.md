@@ -43,6 +43,19 @@ Technical soport providing support and manteinance on equipment (mechanical, ele
   -  Manteinance of production equipment like industrial fryers, ovens, and transportation devices
   -  Developing main boards and modifications on manufacturing process.
 </i>
+<br>
+<b>Technical Support at La Campagnola. Mar del Plata</b>
+<br>2015 - 2019
+
+Technical support providing support and maintenance on equipment in a manufacturing environment
+<i>
+  -  Maintenance of production equipment, focusing on automation, electrical systems, and PLC programming.
+  -  Refurbishment and upgrading of electrical panels and PLCs for equipment control and operation.
+  -  Implementation of operational improvements on third-party equipment, such as:
+    * Jam detection and automatic shutdown systems for cans.
+    * Enhanced functionality for post-sterilization basket rotators.
+    * Operational improvements for can washers, etc.
+</i>
  
 ### 📚 Education
   -  <b>Bachelor`s degree in System Analysis</b>
