@@ -71,7 +71,9 @@ Technical support providing support and maintenance on equipment in a manufactur
   -  <b>Electronic Technician</b>
       <br><i>Escuela de Educación Técnica Nª3 D. F. Sarmiento, Mar del Plata, Buenos Aires, Argentina</i>
 
+It's clear that before 2019 I worked mostly in different roles: commercial positions, call centers, and as an IT instructor, etc. If you want more information, my contact details are below.
 
 ### ✉️ Contact me
 <a href="mailto:nelson83mdq@gmail.com">![GMAIL](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/brizuelanelsondamian/">![LINKEDIN](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)</a>
+<a href="https://www.linkedin.com/in/brizuelanelsondamian/">![LINKEDIN](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)</a>
+<a href="https://wa.me/5492234552075">![WHATSAPP](https://img.shields.io/badge/-Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white)</a>
