@@ -16,23 +16,28 @@ As a Full Stack Developer, I build software solutions that integrate third-party
 #### Database & Storage
 <a href="https://firebirdsql.org/">![Firebird](https://img.shields.io/badge/FIREBIRD-777BB4?style=flat&logo=firebird&logoColor=white)</a>
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)</a>
+<a href="https://qdrant.tech/">![Qdrant](https://img.shields.io/badge/Qdrant-FF516B?style=flat&logo=quadrant&logoColor=black)</a>
+<a href="https://www.trychroma.com/">![Chroma](https://img.shields.io/badge/Chroma-6376CE?style=flat&logo=chroma&logoColor=white)</a>
 
 #### Frameworks
 <a href="https://fastapi.tiangolo.com/">![FASTAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)</a>
 <a href="https://laravel.com/">![LARAVEL](https://img.shields.io/badge/Laravel-2e2e2e??style=flat&logo=laravel)</a>
 <a href="https://angular.dev/">![ANGULAR](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)</a>
+<a href="https://www.langchain.com/">![LangChain](https://img.shields.io/badge/-Langchain-97CA01?style=flat&logo=langchain&logoColor=black)</a>
 
 🌱 Currently, I'm learning DevOps, Cybersecurity, and also exploring blockchain and smart contracts on my own, at my own pace, and using some MOOCs.
 
 ### 📒 Experience
 <b>Remote Full - Stack developer <a href="https://zoonsuite.com/">Zoon Suite</a></b>
-<br>2023 - present
+<br>2023 - 2026
 
 Junior Developer position, with some autonomy to make certain design decisions.
 <i>
   -  Developed user interfaces according to the provided specifications.
-  -  Created and coded endpoints to deliver APIs for the front-end.
+  -  Created and coded endpoints to deliver APIs for the front-end (Laravel & FastAPI).
   -  Planned database design based on project objectives and provided specifications.
+  -  Integrate STT, TTS, and LLM APIs into an agentic voice agent.
+  -  RAG development for agents usign Chroma with LangChain & Qdrant
 </i>
 <br>
 <b>Technical Support at Pepsico. Mar del Plata</b>
