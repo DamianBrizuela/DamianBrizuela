@@ -1,6 +1,6 @@
 ## Hi, my name is Nelson Damian Brizuela
 ### 👋🏼 About me
-I’m a software developer and electronics technician. I mainly like coding in Python, I started learning with Pascal but during my Bachelor's degree in System Analysis, i worked entirely with C++. I enjoy roller skating and spending quality time outdoors with my friends, girlfriend and my two daughters. I also like reading and learning about finance, investment, and market operations.
+I’m a software developer and electronics technician. I mainly like coding in Python, I started learning with Pascal but during my Bachelor's degree in System Analysis, i worked entirely with C++. I enjoy roller skating and spending quality time outdoors with my friends, girlfriend and my two daughters. I also like reading and learning about finance, investment, blockchain technology, and AI.
 
 Currently, I am working with FastAPI, Laravel, Angular, and JavaScript, with occasional use of ExtJS. I have over two years of experience. Additionally, I developed a local stock control application entirely in C++ a few years ago (and using Firebird as DB).
 
