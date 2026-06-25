@@ -31,7 +31,7 @@ As a Full Stack Developer, I build software solutions that integrate third-party
 <b>Remote Full - Stack developer </b>
 <br>2026 - Currently
 
-Junior Developer position with orientation on Agents & AI.
+Semi-Sr Developer position with orientation on Agents & AI.
 <i>
   -  Programming integration with specific company code.
   -  Using Langchain & Anthropic MCP library for developing solutions.
