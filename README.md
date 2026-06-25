@@ -28,6 +28,15 @@ As a Full Stack Developer, I build software solutions that integrate third-party
 🌱 Currently, I'm learning DevOps, Cybersecurity, and also exploring blockchain and smart contracts on my own, at my own pace, and using some MOOCs.
 
 ### 📒 Experience
+<b>Remote Full - Stack developer </b>
+<br>2026 - Currently
+
+Junior Developer position with orientation on Agents & AI.
+<i>
+  -  Programming integration with specific company code.
+  -  Using Langchain & Anthropic MCP library for developing solutions.
+</i>
+<br>
 <b>Remote Full - Stack developer <a href="https://zoonsuite.com/">Zoon Suite</a></b>
 <br>2023 - 2026
 
